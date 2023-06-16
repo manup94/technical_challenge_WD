@@ -1,0 +1,13 @@
+.phone {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    margin-right: 30px;
+}
